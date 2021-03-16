@@ -1,4 +1,4 @@
-Documentação do Projeto de precificação de cartórios.
+Documentação do Projeto de Ciências de dados com foco em precificação de cartórios.
 
 O documento a abaixo tem como objeto especificar e detalhar os passos e processos que foram seguidos para a cosntrução e ideação da aplicação de estruturação dos dados. Gerar uma aplicação, que apresentem os valores das custas com o registros das garantias e os dados cadastrais dos Cartórios. Criar um cadastro online de Cartórios que possua as funcionalidades de inclusão, exclusão e consulta de Cartórios de todo o território brasileiro.
 
